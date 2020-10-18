@@ -26,5 +26,5 @@ Demo: https://youtu.be/E4bnFpNkSYM
 </p>
 
 <p align="center">
-  <img src="documentation/screenshots/mob2.png" alt="Accelerometer" width="750">
+  <img src="documentation/screenshots/mob2.png" alt="Accelerometer" width="650">
 </p>
