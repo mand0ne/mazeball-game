@@ -18,7 +18,7 @@ You can find the Android code for the controller at: https://github.com/mand0ne/
 Demo: https://youtu.be/E4bnFpNkSYM
 
 <p align="center">
-  <img align="center" src="documentation/screenshots/shema.png" alt="Fritzing scheme" width="1000">
+  <img align="center" src="documentation/screenshots/shema.png" alt="Fritzing scheme" width="900">
 </p>
 
 <p align="center">
