@@ -3,7 +3,7 @@
 
 ---
 
-_MazeBall_ is a maze game which involves controlling a ball by tilting an Android phone so that the ball is manoeuvered towards a goal.
+_MazeBall_ is a maze game which involves controlling a ball by tilting an Android phone so that the ball is manoeuvred towards a goal.
 The game was developed on FRDM-KL25Z platform, controlled by an Android app and ESP8266-01 WiFi module.
  
 Some relevant features include:
